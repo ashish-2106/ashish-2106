@@ -6,7 +6,7 @@
 🎓 Studying at SRM Institute of Science and Technology  
 🌟 Approaching towards 2 stars on CodeChef  
 📚 Learning DSA and sharpening problem-solving skills  
-🚀 Proficient in C, C++, Python, Java, and MySQL  
+🚀 Proficient in C, C++, Python, and MySQL  
 💻 Exploring the realms of Web Development and App Development  
 📷 Passionate about Photography and upskilling in Graphic Designing  
 
