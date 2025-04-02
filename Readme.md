@@ -25,6 +25,14 @@
 - 🌐 Exploring the World of Web and App Development
 - 📸 Capturing Moments Through Photography
 - 🎨 Unleashing Creativity in Graphic Design
+
+# GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-2106&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-2106&layout=compact&theme=radical)  
+
+
   
 ## 🚀 Goals and Ambitions
 
