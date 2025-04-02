@@ -18,13 +18,7 @@
 
 
 
-## 🚀 Skills & Interests
 
-- 📊 Problem Solving in Data Structures and Algorithms
-- 💻 Competent in C, C++, Python, Java, and MySQL
-- 🌐 Exploring the World of Web and App Development
-- 📸 Capturing Moments Through Photography
-- 🎨 Unleashing Creativity in Graphic Design
 
 # GitHub Stats  
 
@@ -36,24 +30,14 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashish-2106&theme=radical&no-frame=true&margin-w=5)
 
+## 🚀 Skills & Interests
 
+- 📊 Problem Solving in Data Structures and Algorithms
+- 💻 Competent in C, C++, Python, Java, and MySQL
+- 🌐 Exploring the World of Web and App Development
+- 📸 Capturing Moments Through Photography
+- 🎨 Unleashing Creativity in Graphic Design
 
   
-## 🚀 Goals and Ambitions
-
-- 🔭 I'm excited to build a collection of impactful projects that solve real-world problems.
-- 🌟 Planning to achieve a 2-star rating on CodeChef by consistently solving coding challenges.
-- 🌍 Dreaming of contributing to open-source projects that make a difference.
-
-## 📂 Projects and Contributions
-
-- 🛠️ I'm gradually building my project portfolio, starting from simple coding challenges to ambitious endeavors.
-- ✍️ Documenting my projects and learnings through well-crafted READMEs.
-- 🤝 Collaborating with others and open to mentorship opportunities.
-
-
-## 🌱 Current Focus
-
-Currently, I'm diving deeper into the world of Data Structures and Algorithms, aiming to enhance my problem-solving skills and achieve a 2-star rating on CodeChef. Simultaneously, I'm also crafting my skills in web and app development to turn my innovative ideas into reality. When I'm not coding, you can find me with a camera, capturing the beauty around, or immersed in creative graphic design projects.
 
 Let's connect and collaborate to create something incredible!
