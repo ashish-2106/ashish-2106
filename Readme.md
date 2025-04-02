@@ -17,18 +17,24 @@
 [![Instagram](https://img.shields.io/badge/Instagram-ashish_jhajharia__-C13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_jhajharia__)
 
 
+## 🛠 Tech Stack  
+![Languages](https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,mysql,postgresql,aws,git,github)
 
 
 
-# GitHub Stats  
+
+
+## 📊 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-2106&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-2106&layout=compact&theme=radical)  
+
 
 # 🏆 GitHub Trophies  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashish-2106&theme=radical&no-frame=true&margin-w=5)
+
+
 
 ## 🚀 Skills & Interests
 
@@ -38,6 +44,13 @@
 - 📸 Capturing Moments Through Photography
 - 🎨 Unleashing Creativity in Graphic Design
 
-  
+## 💡 Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+
+## 📊 GitHub Activity  
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ashish-2106&theme=github-dark&area=true&hide_border=true)
+
+
 
 Let's connect and collaborate to create something incredible!
