@@ -18,7 +18,7 @@
 
 
 ## 🛠 Tech Stack  
-![Languages](https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,mysql,postgresql,aws,git,github)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,nodejs,mysql,postgresql,aws,git,github)
 
 
 
