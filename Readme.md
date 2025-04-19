@@ -30,11 +30,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-2106&layout=compact&theme=radical)  
 
 
-# 🏆 GitHub Trophies  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashish-2106&theme=radical&no-frame=true&margin-w=5)
-
-
 
 ## 🚀 Skills & Interests
 
