@@ -15,6 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish2106-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish2106)
 [![Instagram](https://img.shields.io/badge/Instagram-ashish_jhajharia__-C13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_jhajharia__)
+[![HackerRank](https://img.shields.io/badge/HackerRank-as4612-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/as4612)
 
 
 ## 🛠 Tech Stack  
