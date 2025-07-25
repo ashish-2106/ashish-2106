@@ -1,14 +1,12 @@
 # Hey there, I'm Ashish! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4000&pause=1000&color=F7291D&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Intermediate+Graphic+Designer;Learning+New+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4000&pause=1000&color=0057B7&vCenter=true&random=false&width=500&lines=Welcome+to+my+github+profile;Full+Stack+Developer;AI+/ML+Learner;passionate+about+problem+solving;Learning+New+Skills)](https://git.io/typing-svg)
 
 
-🎓 Studying at SRM Institute of Science and Technology  
-🌟 Approaching towards 2 stars on CodeChef  
+🎓 Studying at SRM Institute of Science and Technology    
 📚 Learning DSA and sharpening problem-solving skills  
 🚀 Proficient in C, C++, Python, and MySQL  
-💻 Exploring the realms of Web Development and App Development  
-📷 Passionate about Photography and upskilling in Graphic Designing  
+💻 Exploring the realms of Web Development and AI/ML
 
 ## 🌐 Connect with Me
 
