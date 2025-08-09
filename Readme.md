@@ -23,6 +23,17 @@
 
 
 
+## 🏆 Badges 
+
+<a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17342716">
+  <img src="https://cdn.qwiklabs.com/dM8ooTjT6GGPXBnqup2xSIXrJuJykFx8fn%2B%2BiQ41kVo%3D" alt="Google Cloud Skills Boost Badge 1" width="200"/>
+</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17384761">
+  <img src="https://cdn.qwiklabs.com/48vX8t3kPltK%2FVc3zkxqcwmUfLbAqtgMLwtTx6q0WBo%3D" alt="Google Cloud Skills Boost Badge 2" width="200"/>
+</a>
+
+
+
 
 
 ## 📊 GitHub Stats  
