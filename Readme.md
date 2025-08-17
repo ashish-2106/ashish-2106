@@ -23,15 +23,23 @@
 
 
 
-## 🏆 Badges 
+## 🏆 Badges  
 
-<a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17342716">
-  <img src="https://cdn.qwiklabs.com/dM8ooTjT6GGPXBnqup2xSIXrJuJykFx8fn%2B%2BiQ41kVo%3D" alt="Google Cloud Skills Boost Badge 1" width="200"/>
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17384761">
-  <img src="https://cdn.qwiklabs.com/48vX8t3kPltK%2FVc3zkxqcwmUfLbAqtgMLwtTx6q0WBo%3D" alt="Google Cloud Skills Boost Badge 2" width="200"/>
-</a>
-
+<div align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17342716">
+    <img src="https://cdn.qwiklabs.com/dM8ooTjT6GGPXBnqup2xSIXrJuJykFx8fn%2B%2BiQ41kVo%3D" width="200"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17384761">
+    <img src="https://cdn.qwiklabs.com/48vX8t3kPltK%2FVc3zkxqcwmUfLbAqtgMLwtTx6q0WBo%3D" width="200"/>
+  </a>
+   <a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17527253">
+    <img src="https://cdn.qwiklabs.com/e0yeiMdwdrwpQj33yjv8prnFYszhXOlOuJTtp9EHOsM%3D" width="200"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17442358">
+    <img src="https://cdn.qwiklabs.com/jiOBZzRbqmZOz7RELO4i%2FrDGHqAbYmmOIejs3AGxKcY%3D" width="200"/>
+  </a>
+  <!-- Add more badges -->
+</div>
 
 
 
