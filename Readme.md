@@ -27,17 +27,17 @@
 
 <div align="center">
    <a href="https://www.skills.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/19438943">
-    <img src="https://cdn.qwiklabs.com/aQ1N2rzV4z%2FO5igt3tP83tW%2Bf9XJa9zKtkTcZu6KxeM%3D" width="200"/>
+    <img src="https://cdn.qwiklabs.com/aQ1N2rzV4z%2FO5igt3tP83tW%2Bf9XJa9zKtkTcZu6KxeM%3D" width="170"/>
   </a>
   <a href="https://www.kaggle.com/certification/badges/ashishjhajharia/30">
-    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width="200"/>
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width="170"/>
   </a>
   
   <a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17442358">
-    <img src="https://cdn.qwiklabs.com/jiOBZzRbqmZOz7RELO4i%2FrDGHqAbYmmOIejs3AGxKcY%3D" width="200"/>
+    <img src="https://cdn.qwiklabs.com/jiOBZzRbqmZOz7RELO4i%2FrDGHqAbYmmOIejs3AGxKcY%3D" width="170"/>
   </a>
   <a href="https://www.kaggle.com/certification/badges/ashishjhajharia/38">
-    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" width="200"/>
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" width="170"/>
   </a>
   <!-- Add more badges -->
 </div>
