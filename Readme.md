@@ -39,6 +39,9 @@
   <a href="https://www.kaggle.com/certification/badges/ashishjhajharia/38">
     <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" width="170"/>
   </a>
+  <a href="https://www.skills.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/19642384">
+    <img src="https://cdn.qwiklabs.com/WSEclDsyYpPugJNiURT6Gwe97I4w0Ny18fWcemXoW7w%3D" width="170"/>
+  </a>
   <!-- Add more badges -->
 </div>
 
