@@ -29,8 +29,8 @@
    <a href="https://www.skills.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/19438943">
     <img src="https://cdn.qwiklabs.com/aQ1N2rzV4z%2FO5igt3tP83tW%2Bf9XJa9zKtkTcZu6KxeM%3D" width="200"/>
   </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17342716">
-    <img src="https://cdn.qwiklabs.com/dM8ooTjT6GGPXBnqup2xSIXrJuJykFx8fn%2B%2BiQ41kVo%3D" width="200"/>
+  <a href="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width="200"/>
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/17384761">
     <img src="https://cdn.qwiklabs.com/48vX8t3kPltK%2FVc3zkxqcwmUfLbAqtgMLwtTx6q0WBo%3D" width="200"/>
