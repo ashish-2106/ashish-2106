@@ -42,6 +42,9 @@
   <a href="https://www.skills.google/public_profiles/d1ba471f-3ceb-4128-8d34-7dc7a1b33b7d/badges/19642384">
     <img src="https://cdn.qwiklabs.com/WSEclDsyYpPugJNiURT6Gwe97I4w0Ny18fWcemXoW7w%3D" width="170"/>
   </a>
+    <a href="https://www.kaggle.com/certification/badges/ashishjhajharia/105">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2Fef135f20e49c369cebff513ac3c96eed%2F5-Day_AI_Agents_Intensive_Badge.svg?generation=1763052133996110&alt=media" width="170"/>
+  </a>
   <!-- Add more badges -->
 </div>
 
