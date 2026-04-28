@@ -12,7 +12,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish2106-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish2106)
-[![Instagram](https://img.shields.io/badge/Instagram-ashish_jhajharia__-C13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_jhajharia__)
+[![Instagram](https://img.shields.io/badge/Instagram-ashishxjhajharia-C13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashishxjhajharia)
 [![HackerRank](https://img.shields.io/badge/HackerRank-as4612-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/as4612)
 [![X (Twitter)](https://img.shields.io/badge/X-AshishJ02790846-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/AshishJ02790846?s=09)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ashishjhajharia-F89F1B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ashish-2106)
